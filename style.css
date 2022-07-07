@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.juju{
+    color: red;
+}
+.kira{
+    display: flex;
+}
+.power{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(230, 233, 64),aqua);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: rgb(44, 20, 20);
+    font-weight: 700;
+    padding-left: 30px;
+}
+.death {
+    margin: 20px; ;
+    padding-left: 30px;
+    border-radius: 10px;
+    padding-right: 20px;
+
+}
+.pic{
+    padding-left: 20px;
+    
+    margin-left: -10;
+}
+
+p{
+    color: rgb(96, 25, 228);
+    
+    text-align: unset;
+}
+.book{
+    height: 400px;
+    width: 400px;
+}
